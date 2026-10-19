@@ -1,0 +1,6 @@
+{
+  "name": "SocialMuse Studio",
+  "description": "Premium Android social media toolkit with glassmorphism UI, hybrid local-and-AI caption creator, hashtag discovery, calendar scheduler, and brand voice manager.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
